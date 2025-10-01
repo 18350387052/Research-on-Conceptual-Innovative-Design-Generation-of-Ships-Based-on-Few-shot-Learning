@@ -1,0 +1,52 @@
+#Created by .ignore support plugin(hsz.mobi)
+### Java template
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.nar
+*.rar
+*.tar.gz
+
+# virtual machine crash logs, see http://www.java.com/en/downLoad/heLp/errorhotspot.xmL
+hs_err_pid*
+.classpath
+.project
+.settings
+target
+.idea
+*.iml
+*.bak
+.gradle
+/build/
+*.log
+classes
+lib
+*.DS_Store
+build
+out
+log
+
+### IntelliJ IDEA ###
+*.iws
+*.ipr
+
+### Visual Studio 2017 ###
+/.vs/
+*.sln
+*.vcxproj
+.vs/
+Debug/
+*.exe
+*.filters
+*.user
+*.suo
+*.db
+*.ipch
+.vs
