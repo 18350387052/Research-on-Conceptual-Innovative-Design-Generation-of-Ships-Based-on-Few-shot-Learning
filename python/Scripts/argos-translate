@@ -1,0 +1,7 @@
+#!C:\_a\ComfyUI-aki-v2\python\python.exe
+
+from argostranslate import cli
+
+cli.main()
+
+

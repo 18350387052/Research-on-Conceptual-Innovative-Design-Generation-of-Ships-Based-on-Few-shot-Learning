@@ -1,0 +1,5 @@
+#!C:\_a\ComfyUI-aki-v2\python\python.exe
+
+from argostranslate import argospm
+
+argospm.main()
