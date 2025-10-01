@@ -169,7 +169,7 @@ To replicate the experimental results from the associated research paper:
 
 1. Use the exact workflow file: `/my_workflows/ship_design_paper_experiment.json`.
 2. Use the reference images provided in `/my_workflows/references/` (consistent with the paper’s few-shot setup).
-3. Set LoRA strength to `0.8`, sampler steps to `25`, and CFG scale to `7.0` (as used in the paper).
+3. Set LoRA strength to `0.8`, sampler steps to `35`, and CFG scale to `7.0` (as used in the paper).
 4. Run 5 independent generations per reference set and compare results to the paper’s quantitative/qualitative analysis.
 
 ## Troubleshooting
